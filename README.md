@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://espacio.fundaciontelefonica.com/wp-content/uploads/2020/10/sdie_2020_ciberseguridad_1400x600.jpg" alt="2001: Odisea en el Espacio" width="200" />
-</p>
-
 # Hola, Soy José Luis Bolaños 🚀
 
 ¡Bienvenido a mi rincón en la vastedad del ciberespacio! Soy un apasionado por la economía 💹, los datos 📊 y la ciberseguridad 🔒, con un enfoque especial en la defensa. Mi insaciable curiosidad me impulsa a aprender y mejorar cada día 🌱.
@@ -27,7 +23,9 @@ def my_skills():
 print(my_skills())
 ```
 
+## Plataformas
+- 💻 **Windows** y 🐧 **Linux**
+
 Siéntete libre de explorar mis repositorios para conocer algunos de mis proyectos y contribuciones. ¡Si compartimos intereses, no dudes en contactarme y colaborar en futuros proyectos!
 
-## "El camino del hombre hacia las estrellas" 🌟
-```
+## El camino del hombre hacia las estrellas" 🌟
