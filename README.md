@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![_ddb63e53-3ce2-4a40-8899-477a22d4a791](https://github.com/JoseLuiB/JoseLuiB/assets/123767857/eaeea09f-34a9-47af-8442-59478094cda4)" alt="2001: Odisea en el Espacio" width="200" />
+  <img src="https://github.com/JoseLuiB/JoseLuiB/blob/master/_ddb63e53-3ce2-4a40-8899-477a22d4a791.jpg" alt="2001: Odisea en el Espacio" width="200" />
 </p>
 
 # Hola, Soy José Luis Bolaños 🚀
