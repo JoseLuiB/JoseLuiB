@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="![_ddb63e53-3ce2-4a40-8899-477a22d4a791](https://github.com/JoseLuiB/JoseLuiB/assets/123767857/eaeea09f-34a9-47af-8442-59478094cda4)" alt="2001: Odisea en el Espacio" width="200" />
+</p>
+
 # Hola, Soy José Luis Bolaños 🚀
 
 ¡Bienvenido a mi rincón en la vastedad del ciberespacio! Soy un apasionado por la economía 💹, los datos 📊 y la ciberseguridad 🔒, con un enfoque especial en la defensa. Mi insaciable curiosidad me impulsa a aprender y mejorar cada día 🌱.
