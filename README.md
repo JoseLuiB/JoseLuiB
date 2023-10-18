@@ -16,6 +16,10 @@
 
 - 🌱 **Aprendizaje Continuo:** Creo firmemente en la importancia de la educación constante y el crecimiento personal. Cada día es una oportunidad para aprender algo nuevo.
 
+- 🚀 **Ciencia Ficción:** Como amante de la tecnología y la exploración, disfruto de la ciencia ficción y su visión del futuro.
+
+- ⚽ **Deporte:** El deporte es una fuente de energía y determinación. Disfruto siguiendo y practicando deportes para mantener un equilibrio en la vida.
+
 ## Mis Habilidades
 
 ```python
