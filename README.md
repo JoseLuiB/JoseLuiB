@@ -36,4 +36,5 @@ print(my_skills())
 
 Siéntete libre de explorar mis repositorios para conocer algunos de mis proyectos y contribuciones. ¡Si compartimos intereses, no dudes en contactarme y colaborar en futuros proyectos!
 
-## El camino del hombre hacia las estrellas" 🌟
+## "Nuestra mayor gloria no está en nunca caer, sino en levantarnos cada vez que caemos." 
+- Confucio
