@@ -2,7 +2,7 @@
   <img src="https://github.com/JoseLuiB/JoseLuiB/blob/master/_ddb63e53-3ce2-4a40-8899-477a22d4a791.jpg" alt="2001: Odisea en el Espacio" width="200" />
 </p>
 
-# Hola, Soy José Luis Bolaños 🚀
+# Hola, Soy José Luis Bolaños H.🚀
 
 ¡Bienvenido a mi rincón en la vastedad del ciberespacio! Soy un apasionado por la economía 💹, los datos 📊 y la ciberseguridad 🔒, con un enfoque especial en la defensa. Mi insaciable curiosidad me impulsa a aprender y mejorar cada día 🌱.
 
@@ -36,5 +36,5 @@ print(my_skills())
 
 Siéntete libre de explorar mis repositorios para conocer algunos de mis proyectos y contribuciones. ¡Si compartimos intereses, no dudes en contactarme y colaborar en futuros proyectos!
 
-## "Nuestra mayor gloria no está en nunca caer, sino en levantarnos cada vez que caemos." 
-- Confucio
+# "Nuestra mayor gloria no está en nunca caer, sino en levantarnos cada vez que caemos." 
+# - Confucio
