@@ -1,6 +1,6 @@
 # Hola, Soy José Luis Bolaños H.🚀
 
-¡Bienvenido a mi rincón en la vastedad del ciberespacio! Soy un apasionado por la economía 💹, los datos 📊 y la ciberseguridad 🔒.
+¡Bienvenido a mi rincón en la vastedad del ciberespacio! Soy un apasionado por la economía 💹 y los datos 📊.
 
 ## Plataformas
 - 💻 **Windows** y 🐧 **Linux**
